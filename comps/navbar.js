@@ -1,9 +1,10 @@
 import Link from "next/link";
+import Image from "next/image";
 const Navbar = () => {
     return ( 
         <nav>
             <div className="logo">
-                <h1>Jack Sainther </h1>
+                <Image src="/hmongher.png" alt="jacksainther" width={77} height={77} />
             </div>
             <Link href="/"><a className="nav-link">ໜ້າລັກ</a></Link>
             <Link href="/about"><a className="nav-link">ກ່ຽວກັບ</a></Link>

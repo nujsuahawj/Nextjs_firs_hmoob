@@ -1,0 +1,10 @@
+.single{
+    margin: 20px 10px;
+    padding: 2px 16px;
+    background: #fff;
+    display: block;
+    border-left: 8px solid #fff;
+  }
+  .gingle:hover{
+    border-left: 8px solid #4979ff;
+  }
