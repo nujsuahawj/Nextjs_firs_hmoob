@@ -8,7 +8,7 @@ const Navbar = () => {
             </div>
             <Link href="/"><a className="nav-link">ໜ້າລັກ</a></Link>
             <Link href="/about"><a className="nav-link">ກ່ຽວກັບ</a></Link>
-            <Link href="/contact/"><a className="nav-link">ຕິດຕໍ່</a></Link>
+            <Link href="/sim"><a className="nav-link">ຕິດຕໍ່</a></Link>
         </nav>
      );
 }
